@@ -41,9 +41,9 @@
             "filename": "sance_001.md",
             "xhtml": "sance_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -53,9 +53,9 @@
             "filename": "sance_002.md",
             "xhtml": "sance_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -65,9 +65,9 @@
             "filename": "sance_003.md",
             "xhtml": "sance_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -77,9 +77,9 @@
             "filename": "sance_004.md",
             "xhtml": "sance_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -95,7 +95,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "sance_006.md",
@@ -107,7 +108,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Řecko"
           },
           {
             "filename": "sance_007.md",
@@ -119,7 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pomalé večery"
           },
           {
             "filename": "sance_008.md",
@@ -128,10 +131,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Báseň na narození syna"
           },
           {
             "filename": "sance_009.md",
@@ -141,9 +145,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "sance_010.md",
@@ -153,9 +158,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "sance_011.md",
@@ -164,10 +170,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obitou věnci"
           },
           {
             "filename": "sance_012.md",
@@ -177,9 +184,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "sance_013.md",
@@ -188,10 +196,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Tohle století kvete černě a zeleně"
           },
           {
             "filename": "sance_014.md",
@@ -200,10 +209,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Po návratu z Řecka"
           },
           {
             "filename": "sance_015.md",
@@ -212,10 +222,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Olomouc"
           },
           {
             "filename": "sance_016.md",
@@ -225,9 +236,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": ""
           },
           {
             "filename": "sance_017.md",
@@ -236,10 +248,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šance"
           },
           {
             "filename": "sance_018.md",
@@ -248,10 +261,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Starý gnostický příběh"
           },
           {
             "filename": "sance_019.md",
@@ -260,10 +274,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V tmavomodrém Babylóně"
           },
           {
             "filename": "sance_020.md",
@@ -272,10 +287,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sklenění mrtví ve staré Polsce"
           },
           {
             "filename": "sance_021.md",
@@ -284,10 +300,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Já si tě najdu"
           },
           {
             "filename": "sance_022.md",
@@ -296,10 +313,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bylina Balan evin"
           },
           {
             "filename": "sance_023.md",
@@ -308,10 +326,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Je květen, horký večer"
           },
           {
             "filename": "sance_024.md",
@@ -320,10 +339,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Řeč vodotrysků"
           },
           {
             "filename": "sance_025.md",
@@ -332,10 +352,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Voják v modré uniformě odpouštění"
           },
           {
             "filename": "sance_026.md",
@@ -344,10 +365,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Já"
           },
           {
             "filename": "sance_027.md",
@@ -356,10 +378,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dřevěné mečíky"
           },
           {
             "filename": "sance_028.md",
@@ -368,10 +391,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rybník Výskok"
           },
           {
             "filename": "sance_029.md",
@@ -380,10 +404,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vánoční báj"
           },
           {
             "filename": "sance_030.md",
@@ -392,10 +417,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Cesta lesem"
           },
           {
             "filename": "sance_031.md",
@@ -404,10 +430,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Na hradbách keltského města"
           },
           {
             "filename": "sance_032.md",
@@ -416,10 +443,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Třicáté páté narozeniny"
           },
           {
             "filename": "sance_033.md",
@@ -428,10 +456,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kdo jí ovoce jazyka?"
           },
           {
             "filename": "sance_034.md",
@@ -440,10 +469,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Smrková smrt"
           },
           {
             "filename": "sance_035.md",
@@ -452,10 +482,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Když chodil král Jeroboám"
           },
           {
             "filename": "sance_036.md",
@@ -464,10 +495,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lesy šumí, větry vanou"
           },
           {
             "filename": "sance_037.md",
@@ -476,24 +508,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "A všechno to vede na nebe Řecka"
           },
           {
             "filename": "sance_038.md",
             "xhtml": "sance_038.xhtml",
             "id": 37,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -532,199 +566,199 @@
         "xhtml": "sance_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "sance_005.md",
         "xhtml": "sance_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Řecko",
         "subtitleSuggest": "",
         "filename": "sance_006.md",
         "xhtml": "sance_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pomalé večery",
         "subtitleSuggest": "",
         "filename": "sance_007.md",
         "xhtml": "sance_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Báseň na narození syna",
         "subtitleSuggest": "",
         "filename": "sance_008.md",
         "xhtml": "sance_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "sance_009.md",
         "xhtml": "sance_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "sance_010.md",
         "xhtml": "sance_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obitou věnci",
         "subtitleSuggest": "",
         "filename": "sance_011.md",
         "xhtml": "sance_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "sance_012.md",
         "xhtml": "sance_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tohle století kvete černě a zeleně",
         "subtitleSuggest": "",
         "filename": "sance_013.md",
         "xhtml": "sance_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Po návratu z Řecka",
         "subtitleSuggest": "",
         "filename": "sance_014.md",
         "xhtml": "sance_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Olomouc",
         "subtitleSuggest": "",
         "filename": "sance_015.md",
         "xhtml": "sance_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "sance_016.md",
         "xhtml": "sance_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šance",
         "subtitleSuggest": "",
         "filename": "sance_017.md",
         "xhtml": "sance_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Starý gnostický příběh",
         "subtitleSuggest": "",
         "filename": "sance_018.md",
         "xhtml": "sance_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V tmavomodrém Babylóně",
         "subtitleSuggest": "",
         "filename": "sance_019.md",
         "xhtml": "sance_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sklenění mrtví ve staré Polsce",
         "subtitleSuggest": "",
         "filename": "sance_020.md",
         "xhtml": "sance_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Já si tě najdu",
         "subtitleSuggest": "",
         "filename": "sance_021.md",
         "xhtml": "sance_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bylina Balan evin",
         "subtitleSuggest": "",
         "filename": "sance_022.md",
         "xhtml": "sance_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Je květen, horký večer",
         "subtitleSuggest": "",
         "filename": "sance_023.md",
         "xhtml": "sance_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Řeč vodotrysků",
         "subtitleSuggest": "",
         "filename": "sance_024.md",
         "xhtml": "sance_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Voják v modré uniformě odpouštění",
         "subtitleSuggest": "",
         "filename": "sance_025.md",
         "xhtml": "sance_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Já",
         "subtitleSuggest": "",
         "filename": "sance_026.md",
         "xhtml": "sance_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dřevěné mečíky",
         "subtitleSuggest": "",
         "filename": "sance_027.md",
         "xhtml": "sance_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rybník Výskok",
         "subtitleSuggest": "",
         "filename": "sance_028.md",
         "xhtml": "sance_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vánoční báj",
         "subtitleSuggest": "",
         "filename": "sance_029.md",
         "xhtml": "sance_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cesta lesem",
         "subtitleSuggest": "",
         "filename": "sance_030.md",
         "xhtml": "sance_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na hradbách keltského města",
         "subtitleSuggest": "",
         "filename": "sance_031.md",
         "xhtml": "sance_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třicáté páté narozeniny",
         "subtitleSuggest": "",
         "filename": "sance_032.md",
         "xhtml": "sance_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kdo jí ovoce jazyka?",
         "subtitleSuggest": "",
         "filename": "sance_033.md",
         "xhtml": "sance_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smrková smrt",
         "subtitleSuggest": "",
         "filename": "sance_034.md",
         "xhtml": "sance_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když chodil král Jeroboám",
         "subtitleSuggest": "",
         "filename": "sance_035.md",
         "xhtml": "sance_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lesy šumí, větry vanou",
         "subtitleSuggest": "",
         "filename": "sance_036.md",
         "xhtml": "sance_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "A všechno to vede na nebe Řecka",
         "subtitleSuggest": "",
         "filename": "sance_037.md",
         "xhtml": "sance_037.xhtml"
@@ -792,6 +826,6 @@
       "user": "books-are-next",
       "repo": "sance"
     },
-    "generatedAt": 1652972092458
+    "generatedAt": 1652972529722
   }
 }
