@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Kdo jí ovoce jazyka?
+contentType: poetry
 ---
-
-Kdo jí ovoce jazyka?
 
 Copak to někdy byla možnost,  
 vzdát se hlupcům?  

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-\* \* \*
 
 Budeme tedy souzeni  
 jen podle svých skutků?  

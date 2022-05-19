@@ -1,0 +1,844 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Šance",
+  "author": "Sylva Fischerová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fischerova-sance-4b8e7f0",
+  "revision": "4b8e7f0",
+  "readingOrder": [
+    "promo.html",
+    "sance_001.html",
+    "sance_002.html",
+    "sance_003.html",
+    "sance_004.html",
+    "sance_005.html",
+    "sance_006.html",
+    "sance_007.html",
+    "sance_008.html",
+    "sance_009.html",
+    "sance_010.html",
+    "sance_011.html",
+    "sance_012.html",
+    "sance_013.html",
+    "sance_014.html",
+    "sance_015.html",
+    "sance_016.html",
+    "sance_017.html",
+    "sance_018.html",
+    "sance_019.html",
+    "sance_020.html",
+    "sance_021.html",
+    "sance_022.html",
+    "sance_023.html",
+    "sance_024.html",
+    "sance_025.html",
+    "sance_026.html",
+    "sance_027.html",
+    "sance_028.html",
+    "sance_029.html",
+    "sance_030.html",
+    "sance_031.html",
+    "sance_032.html",
+    "sance_033.html",
+    "sance_034.html",
+    "sance_035.html",
+    "sance_036.html",
+    "sance_037.html",
+    "sance_038.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 15:03:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652972606524
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "sance_001.html",
+      "toc": []
+    },
+    {
+      "title": "Šance",
+      "file": "sance_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "sance_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šance",
+      "file": "sance_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "sance_001.html",
+      "next": "sance_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šance",
+      "file": "sance_003.html",
+      "words": 3,
+      "chars": 21,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "sance_002.html",
+      "next": "sance_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šance",
+      "file": "sance_004.html",
+      "words": 88,
+      "chars": 577,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "sance_003.html",
+      "next": "sance_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "sance_005.html",
+      "words": 240,
+      "chars": 1350,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 5,
+      "prev": "sance_004.html",
+      "next": "sance_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řecko",
+      "file": "sance_006.html",
+      "words": 233,
+      "chars": 1272,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 6,
+      "prev": "sance_005.html",
+      "next": "sance_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řecko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pomalé večery",
+      "file": "sance_007.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "sance_006.html",
+      "next": "sance_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pomalé večery",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Báseň na narození syna",
+      "file": "sance_008.html",
+      "words": 201,
+      "chars": 1121,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 8,
+      "prev": "sance_007.html",
+      "next": "sance_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Báseň na narození syna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "sance_009.html",
+      "words": 3,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "sance_008.html",
+      "next": "sance_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "sance_010.html",
+      "words": 3,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "sance_009.html",
+      "next": "sance_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obitou věnci",
+      "file": "sance_011.html",
+      "words": 61,
+      "chars": 355,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 11,
+      "prev": "sance_010.html",
+      "next": "sance_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obitou věnci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "sance_012.html",
+      "words": 3,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "sance_011.html",
+      "next": "sance_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tohle století kvete černě a zeleně",
+      "file": "sance_013.html",
+      "words": 6,
+      "chars": 34,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 13,
+      "prev": "sance_012.html",
+      "next": "sance_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tohle století kvete černě a zeleně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po návratu z Řecka",
+      "file": "sance_014.html",
+      "words": 175,
+      "chars": 929,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 14,
+      "prev": "sance_013.html",
+      "next": "sance_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po návratu z Řecka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Olomouc",
+      "file": "sance_015.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "sance_014.html",
+      "next": "sance_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Olomouc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "sance_016.html",
+      "words": 3,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "sance_015.html",
+      "next": "sance_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šance",
+      "file": "sance_017.html",
+      "words": 157,
+      "chars": 900,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 17,
+      "prev": "sance_016.html",
+      "next": "sance_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šance",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý gnostický příběh",
+      "file": "sance_018.html",
+      "words": 115,
+      "chars": 659,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 18,
+      "prev": "sance_017.html",
+      "next": "sance_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý gnostický příběh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V tmavomodrém Babylóně",
+      "file": "sance_019.html",
+      "words": 40,
+      "chars": 243,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 19,
+      "prev": "sance_018.html",
+      "next": "sance_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V tmavomodrém Babylóně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sklenění mrtví ve staré Polsce",
+      "file": "sance_020.html",
+      "words": 205,
+      "chars": 1125,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 20,
+      "prev": "sance_019.html",
+      "next": "sance_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sklenění mrtví ve staré Polsce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Já si tě najdu",
+      "file": "sance_021.html",
+      "words": 4,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 21,
+      "prev": "sance_020.html",
+      "next": "sance_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Já si tě najdu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bylina Balan evin",
+      "file": "sance_022.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "sance_021.html",
+      "next": "sance_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bylina Balan evin",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je květen, horký večer",
+      "file": "sance_023.html",
+      "words": 154,
+      "chars": 840,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 23,
+      "prev": "sance_022.html",
+      "next": "sance_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je květen, horký večer",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeč vodotrysků",
+      "file": "sance_024.html",
+      "words": 205,
+      "chars": 1141,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 24,
+      "prev": "sance_023.html",
+      "next": "sance_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeč vodotrysků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Voják v modré uniformě odpouštění",
+      "file": "sance_025.html",
+      "words": 5,
+      "chars": 33,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 25,
+      "prev": "sance_024.html",
+      "next": "sance_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Voják v modré uniformě odpouštění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Já",
+      "file": "sance_026.html",
+      "words": 123,
+      "chars": 698,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 26,
+      "prev": "sance_025.html",
+      "next": "sance_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Já",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dřevěné mečíky",
+      "file": "sance_027.html",
+      "words": 2,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 27,
+      "prev": "sance_026.html",
+      "next": "sance_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dřevěné mečíky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rybník Výskok",
+      "file": "sance_028.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "sance_027.html",
+      "next": "sance_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rybník Výskok",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vánoční báj",
+      "file": "sance_029.html",
+      "words": 178,
+      "chars": 996,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 29,
+      "prev": "sance_028.html",
+      "next": "sance_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vánoční báj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta lesem",
+      "file": "sance_030.html",
+      "words": 56,
+      "chars": 254,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 30,
+      "prev": "sance_029.html",
+      "next": "sance_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta lesem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na hradbách keltského města",
+      "file": "sance_031.html",
+      "words": 130,
+      "chars": 714,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 31,
+      "prev": "sance_030.html",
+      "next": "sance_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na hradbách keltského města",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třicáté páté narozeniny",
+      "file": "sance_032.html",
+      "words": 3,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "sance_031.html",
+      "next": "sance_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třicáté páté narozeniny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo jí ovoce jazyka?",
+      "file": "sance_033.html",
+      "words": 4,
+      "chars": 20,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 33,
+      "prev": "sance_032.html",
+      "next": "sance_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo jí ovoce jazyka?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrková smrt",
+      "file": "sance_034.html",
+      "words": 2,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 34,
+      "prev": "sance_033.html",
+      "next": "sance_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrková smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když chodil král Jeroboám",
+      "file": "sance_035.html",
+      "words": 175,
+      "chars": 983,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 35,
+      "prev": "sance_034.html",
+      "next": "sance_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když chodil král Jeroboám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesy šumí, větry vanou",
+      "file": "sance_036.html",
+      "words": 204,
+      "chars": 1070,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 36,
+      "prev": "sance_035.html",
+      "next": "sance_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesy šumí, větry vanou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A všechno to vede na nebe Řecka",
+      "file": "sance_037.html",
+      "words": 7,
+      "chars": 31,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 37,
+      "prev": "sance_036.html",
+      "next": "sance_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A všechno to vede na nebe Řecka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šance",
+      "file": "sance_038.html",
+      "words": 45,
+      "chars": 293,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 38,
+      "prev": "sance_037.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2847,
+      "chars": 15829,
+      "ideas": 633
+    },
+    "chapters": {
+      "words": 2841,
+      "chars": 15792,
+      "ideas": 628
+    }
+  }
+}

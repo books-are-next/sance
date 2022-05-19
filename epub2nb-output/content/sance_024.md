@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Řeč vodotrysků
+contentType: poetry
 ---
-
-Řeč vodotrysků
 
 Držela jsem ti zrcadlo a konečky oholených vousů  
 plavaly v mýdlové vodě  
@@ -19,6 +18,8 @@ A do všech mrtvých jazyků.
 Začala doba uvozovek:  
 o ten kus nafouklejší  
                                          výsměch idejím.
+
+  
 
 Ale ještě stojí solné sochy u Mrtvého moře,  
 ještě je Jeruzalém, Athény a Řím,  

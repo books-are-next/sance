@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Já si tě najdu
+contentType: poetry
 ---
-
-Já si tě najdu
 
 Posbírám si tě, Bože, z modrého vlčího bobu a z dýmu  
 z komína chalupy,  

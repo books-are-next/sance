@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "Tohle století kvete černě a\_zeleně"
+contentType: poetry
 ---
-
-Tohle století kvete černě a zeleně
 
 A ovšem všichni jsouce obrazy doby,  
 řešením její rovnice.  

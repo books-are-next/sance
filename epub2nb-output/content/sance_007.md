@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Pomalé večery
+contentType: poetry
 ---
-
-Pomalé večery
 
 … pomalé večery, kdy se jedla i slova  
 a vzadu za námi  

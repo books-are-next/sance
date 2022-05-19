@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Řecko
+contentType: poetry
 ---
-
-Řecko
 
 Jako bedna na ohořelé svíce v pravoslavném kostele,  
 smutná a přece ne,  
@@ -16,6 +15,8 @@ vystoupit tedy z auta, vyfotit bouři nad mořem,
 vyfotit drobná pozorování,  
 poslouchat strašný řev krocanů a impotentní bekot krůt,  
 větve se sklání dozadu — vane severák.
+
+  
 
 Toto vše nebude ani vzpomínkou, ani záznamem  
                                                                                mysli,  

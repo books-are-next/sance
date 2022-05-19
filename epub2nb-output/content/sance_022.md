@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Bylina Balan evin
+contentType: poetry
 ---
-
-Bylina Balan evin
 
 Balan evin  
 byla bylina  

@@ -1,12 +1,13 @@
 ---
-contentType: prose
+title: "V\_tmavomodrém Babylóně"
+contentType: poetry
 ---
-
-V tmavomodrém Babylóně
 
 Proti úplně bílému nebi  
 je láska jenom  
 odvaha.
+
+  
 
 Nevrátíš se domů, nenajdeš otce  
                                      ani matku,  

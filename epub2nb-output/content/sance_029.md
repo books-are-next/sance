@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Vánoční báj
+contentType: poetry
 ---
-
-Vánoční báj
 
 Hvězda Vánoc je rozsvícena  
 a mágové znovu kráčejí  
@@ -12,6 +11,8 @@ je dítě v jesličkách,
 jdou světem  
                          plným božích synů a dcer,  
                          mě a tebe.
+
+  
 
 A v začarované bílé zemi v lese  
 leží v potoce dítě pod ledem,  
@@ -24,6 +25,8 @@ ztuhly jak mrtvé ryby,
              kteří nikdy nespatří domov:  
              vesla jim vypadla z dřevěných rukou.
 
+  
+
 „Dítě je hvězda Vánoc,“  
 říká cukroví, říkají ozdoby  
 a mágové se natřásají sněhovou zemí  
@@ -35,6 +38,8 @@ svaté znamení boha,
                                                       je vyvolen,  
                                         jenomže on nechce…  
                                         chce, ale nechce…
+
+  
 
 Velbloudi na sněhu  
 Sloni pod smrkovými šiškami  

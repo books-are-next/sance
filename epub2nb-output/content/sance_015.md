@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Olomouc
+contentType: poetry
 ---
-
-Olomouc
 
 Domy jsou tu naskládané na sebe  
                       jak dýhy na dřevě,  

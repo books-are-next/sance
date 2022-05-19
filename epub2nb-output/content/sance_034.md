@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Smrková smrt
+contentType: poetry
 ---
-
-Smrková smrt
 
 Tam roste  
 tvá smrt: na tom smrkovém kopci,  

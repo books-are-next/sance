@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Rybník Výskok
+contentType: poetry
 ---
-
-Rybník Výskok
 
 Krajina si vyskočila radostí  
          a byl z toho rybník.  

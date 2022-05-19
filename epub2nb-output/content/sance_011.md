@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Obitou věnci
+contentType: poetry
 ---
-
-Obitou věnci
 
 Ta touha sáhnout na sebe  
           v pruhovaných šatech na dětském kolotoči  
@@ -10,6 +9,8 @@ touha otočit čas
           a podívat se mu do očí,  
                                                             na barvu vlasů,  
                                                             barvu jeho větru
+
+  
 
 je touhou sáhnout v krvavý bok  
           zmrtvýchvstalého Krista  

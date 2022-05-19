@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-\* \* \*
 
 Ale já  
 jsem chtěla být jiná:  

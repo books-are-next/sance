@@ -1,13 +1,14 @@
 ---
-contentType: prose
+title: Starý gnostický příběh
+contentType: poetry
 ---
-
-Starý gnostický příběh
 
 Desatero nebes  
 stvořených a odvozených  
 a teprve v posledním  
                                           žijeme my
+
+  
 
 Devatero nebes mezi námi a bohem  
 který nás nestvořil  
@@ -33,6 +34,8 @@ a mechanické loutky
 se dál plouží světem  
 s těmi nevýslovně smutnými  
                                                         trhanými pohyby
+
+  
 
                 zajatců  
                 přesvědčených o svobodě,  

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Lesy šumí, větry vanou
+contentType: poetry
 ---
-
-Lesy šumí, větry vanou
 
 Je noc kdy otvírá se  
                                        nebi brána  
@@ -13,6 +12,8 @@ a jestli žádnému
 zeje tam vprostřed hvězd  
 jak jáma! krvavá díra  
                    splatná až za hrob…
+
+  
 
 Je noc a člověk rukou odhání sny  
                   a tmou si zahaluje tvář,  
@@ -31,6 +32,8 @@ možná mu pustí dechovku!
 Ale nebudou mu rozumět  
 a nebudou ho mít rádi…
 
+  
+
 Tak jako Krista nepotkali  
 cestou do Kafarnaum,  
 to si vymysleli, že mu nějaký Tóma  
@@ -43,6 +46,8 @@ hádanka Boží, prázdnota kterou
 za hluchých hodin podvečera  
 a nad rakví otce, rakví matky,  
 to je ta prázdnota, do které spouštějí rakev —
+
+  
 
 Mít rád toho, koho neznáš.  
 Za zvuků dechovky  
