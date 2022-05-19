@@ -1,13 +1,14 @@
 ---
-contentType: prose
+title: Báseň na narození syna
+contentType: poetry
 ---
-
-Báseň na narození syna
 
 Ráno stál na obloze tenký srpek měsíce.  
 Nebe bylo ještě modré, jen dole  
 pár mraků táhlo jižním směrem.  
 Slunce padalo na trávu.
+
+  
 
 A pak se všecka ta sláva  
 vylila do hrdla nebes  
@@ -31,6 +32,8 @@ už nikdy nebudeš znovu žít mezi plovoucími květinami
 a průhlednými stoly, v krajině slabik a zpěvů  
 na vnitřní straně očí: věci  
                                           ztuhnou na lávu.
+
+  
 
 Teď všecka ta sláva se vylévá  
 do hrdla nebes  

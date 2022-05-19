@@ -1,14 +1,15 @@
 ---
-contentType: prose
+title: Šance
+contentType: poetry
 ---
-
-Šance
 
 Dej si!  
 Dej si tenhle dům  
                                    na kraji lesa.  
 Říkají tomu tady na Šancích,  
 a jsou to šance, pro tebe —
+
+  
 
 po všech těch špitálních nocích modliteb  
 po dnech sežraných špitální televizí  
@@ -23,6 +24,8 @@ na každém vlásku jim visí anděl
 a jak na lesní roh  
 hraje na radost. Nebe napodobuje  
                 jejich úsměvy…
+
+  
 
 Ale my! Kdybychom pochopili jedinou věc až do  
                                                                                        konce —  

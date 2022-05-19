@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-\* \* \*
 
 Tak bydlí  
 v minulosti všech lidí.  

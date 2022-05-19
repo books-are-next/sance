@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "Voják v\_modré uniformě odpouštění"
+contentType: poetry
 ---
-
-Voják v modré uniformě odpouštění
 
 Každý den od rána  
           bohové odpouštějí nám  

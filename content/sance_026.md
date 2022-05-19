@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Já
+contentType: poetry
 ---
-
-Já
 
 Hoří svíce  
 a není co říct Člověk je sám a smutný  
@@ -34,6 +33,8 @@ protože Ábel nechápe proč není
                                                                 Kain,  
 Já  
 jak střečkem pobodávané smrtí —
+
+  
 
 Já, konečná, nenahraditelná, dokonalá  
 tak jako všichni.

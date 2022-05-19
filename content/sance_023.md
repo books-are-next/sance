@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Je květen, horký večer
+contentType: poetry
 ---
-
-Je květen, horký večer
 
 a pod mračným nebem  
 zubatý štít střechy  
@@ -20,10 +19,14 @@ zatímco stojí na nočním spánku dětí,
            na zámku postaveném  
                                                         z jejich dechu
 
+  
+
 Budou opakovat tytéž chyby?  
 Ptát se po smyslu  
 kde křupou lasičí hlavy  
 a meteory sviští vesmírem
+
+  
 
 Uprostřed vesmíru  
 svítí bílý zahradní nábytek  
@@ -32,6 +35,8 @@ tam přehazují nohu přes nohu
 a pijí kávu  
 Otvírají ústa ale není slyšet  
 Proč zmizeli tak daleko?
+
+  
 
 > Děti je namalovaly a teď  
 > kupují listí, prodávají písek  

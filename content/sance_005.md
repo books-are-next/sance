@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-\* \* \*
 
 Psát dopis mrtvému otci  
 Hledat ve zdi tajemství  
@@ -13,6 +12,8 @@ Bojovat s nemocí jako s tichou hloupou obludou,
                                                                                       neprohrát,  
                                   bojovat s bohem i lidmi  
                                                                                 a neprohrát.
+
+  
 
 Psát dopisy mrtvému otci,  
 myslet na mrtvé jako na vrata otvírající  
@@ -28,12 +29,16 @@ světlo je v budoucnu nebo v přítomnu —
                    je to cesta,  
                    vroubí ji rozkvetlé světelné rododendrony.
 
+  
+
 Minulost je paměť. Možná je živá, ale  
 neoživuje. Kam padá stín, ptej se,  
 dopředu, nebo dozadu? — Dozadu padá stín toho,  
 co bylo, protože světlo září před námi.  
 Skřek havrana tkví ve vzduchu jako rána  
 dlouho poté, co odlétl.
+
+  
 
 Budoucí už dělá místo tam vzadu,  
 překopává minulost  
@@ -45,6 +50,8 @@ zavražděné oči, vysezená odpoledne, rána plující
                      do země Nebo, kde můžeš vidět všecko  
                      jak to, co bylo, a ty sis to  
                                                                      nezapamatoval.
+
+  
 
 > Psát svému mrtvému otci  
 >        znamená psát otci, který teprv bude,  

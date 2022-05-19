@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Třicáté páté narozeniny
+contentType: poetry
 ---
-
-Třicáté páté narozeniny
 
 Roky vyplavené jak potoční kamení…  
 Mých pětatřicet let, které se pobily  

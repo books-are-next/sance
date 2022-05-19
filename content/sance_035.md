@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Když chodil král Jeroboám
+contentType: poetry
 ---
-
-Když chodil král Jeroboám
 
 Bůh je veliký a je v něm místo  
 i pro tebe,  
@@ -15,6 +14,8 @@ je i slovo pro mě, jsem taky
 dcera slova, vyvolená  
 tak jako každá druhá,  
 každá druhá královna ze Sáby.
+
+  
 
 Je místo v Bohu, odkud přesný  
 paprsek soucitu a lásky  

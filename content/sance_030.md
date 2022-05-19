@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Cesta lesem
+contentType: poetry
 ---
-
-Cesta lesem
 
 Cesta vede lesem  
 tam kde bydlí smrt  
@@ -11,6 +10,8 @@ smrt na něho dýchne
 a dítě uteče  
  
 
+  
+
 Po cestě jde muž  
 má píšťalu a meč  
 smrt na něj dýchne  
@@ -18,6 +19,8 @@ a on se jí vysměje
 vytáhne píšťalu zastrčí meč  
 má píseň  
  
+
+  
 
 Pak potká ženu  
 a ta mu ukradne píseň  

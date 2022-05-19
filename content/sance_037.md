@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "A\_všechno to vede na nebe Řecka"
+contentType: poetry
 ---
-
-A všechno to vede na nebe Řecka
 
 Nechme to odležet jako sýr,  
 jako všechny ty lidi, co byli krásní,  

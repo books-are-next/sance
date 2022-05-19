@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Dřevěné mečíky
+contentType: poetry
 ---
-
-Dřevěné mečíky
 
 Čas utíká a nechává po sobě  
 jen stopu, do které se nikdy  

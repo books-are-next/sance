@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-\* \* \*
 
 Ale až za koncem a nejhloub  
 touha být jako všichni:  
