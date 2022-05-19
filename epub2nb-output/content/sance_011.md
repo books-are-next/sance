@@ -21,3 +21,15 @@ je touhou sáhnout v krvavý bok
                                                                              holuby  
                                 avšak obitou věnci a nehynoucí  
                                               vzpomínkou potomků.
+
+
+
+Ale já  
+jsem chtěla být jiná:  
+oblaka, rychlé povětří, roztrhané  
+kusy nebe a moře  
+tam v horizontu, který je  
+                                                 polibkem:  
+polibkem oka co to vidí  
+a čisté přítomnosti zbavené citu  
+                                      a lidské paměti.
