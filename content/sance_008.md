@@ -45,3 +45,81 @@ tichý neodkladný posel,
 dítě ho slyší, samo bílé jak yzop,  
 nepřevoditelné na nic předtím  
                                                   ani potom.
+
+
+
+Tak bydlí  
+v minulosti všech lidí.  
+Všechny matky kráčejí za ním,  
+aby mu ušily měkký povijan.  
+Všichni otcové hledají místo,  
+kam by se mohli vracet,  
+dobré místo na odcházení.  
+Sestřičky s věnci mu nosí květy.  
+A on spí,  
+uvnitř kamenných věží a korouhví  
+a lodí čerstvě spuštěných na vodu  
+vonících dehtem a smolou.  
+Zná je,  
+tak jako zná svůj dům, matku,  
+která se jeho očima  
+teď dívá na oblohu  
+a vidí mraky v podobě zvířat  
+prchat do zahrady rajské.  
+Vidí svět z jednoho konce  
+až na druhý:  
+houfy panen a černých kuřat,  
+vidí radostnou cestu dětství  
+a chlapce běžícího po pěšině  
+mimo moc klapajících mord draků  
+a v příběhu, který si sám složí  
+ze zeleného lesa a nebe a divokého  
+                                                                    povětří.  
+Vidí pět světů minulých a pět světů  
+                                             budoucích,  
+oči zemřelých, ústa nezrozených,  
+touhy pomazaných… Vidí!  
+Města rostou jak žluté a zelené  
+                                     výhonky hořčice  
+a zase se bortí,  
+čas je prach a čas je hlína!  
+A ona má čas v břiše  
+a s ním pažravé, věčné  
+                                   město snu:  
+obraz chlapce na pláži u moře,  
+jak hledá zapomenuté autíčko v písku,  
+čas je přesýpací  
+a tam uprostřed, v nejužším místě  
+písečných hodin,  
+bydlí nezjevná sláva stvoření,  
+vzduchoprázdno,  
+na jehlách křepčící  
+                                       přítomnost.
+
+
+
+Budeme tedy souzeni  
+jen podle svých skutků?  
+Anebo rozhodne  
+víra, ta, které jsme tolikrát nedostáli,  
+vrhali pochybnost jak stín,  
+útočili na sebe i na Boha,  
+nevěděli, jak a za co se modlit,  
+ale modlili se vždycky —  
+za kuropění i v dračím svitu  
+                       továrních komínů,  
+u prašivých, přežraných nemocničních koček  
+anebo doma  
+                          v krutém a bezútěšném světle rána.  
+Kdy úsvit je útes  
+plující mořem plochých ledových ker  
+s nápisy  
+                 Beznaděj Nevěra Násilí  
+                 Chlemstání Konec.  
+A Konec, ale s koncem:  
+žádná veselá předpeklí,  
+anekdoty na pivě.  
+Konec, kdy pluješ rozpažen  
+v ledovém tichu vesmíru  
+a vrnění hvězd, těch koťat,  
+už neslyšíš…
