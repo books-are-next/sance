@@ -529,8 +529,7 @@
         ],
         "devoured": false
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -538,7 +537,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Sylva Fischerová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-06T00:00:00.000Z"
+      "modified": "2021-09-05T22:00:00.000Z"
     },
     "chapters": [
       {
@@ -822,10 +821,7 @@
       "_idGenObjectStyleOverride-1",
       "_idGenParaOverride-1"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "sance"
-    },
-    "generatedAt": 1652972529722
+    "github": null,
+    "generatedAt": 1653403418186
   }
 }

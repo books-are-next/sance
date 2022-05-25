@@ -1,0 +1,35 @@
+---
+title: Obitou věnci
+contentType: poetry
+---
+
+Ta touha sáhnout na sebe  
+          v pruhovaných šatech na dětském kolotoči  
+touha otočit čas  
+          a podívat se mu do očí,  
+                                                            na barvu vlasů,  
+                                                            barvu jeho větru
+
+  
+
+je touhou sáhnout v krvavý bok  
+          zmrtvýchvstalého Krista  
+          a nahmatat milost  
+                                              zřetelnou jako šlacha  
+                                svou vlastní nesmrtelnost  
+                                v ráji s huriskami a anděly a pečenými  
+                                                                             holuby  
+                                avšak obitou věnci a nehynoucí  
+                                              vzpomínkou potomků.
+
+
+
+Ale já  
+jsem chtěla být jiná:  
+oblaka, rychlé povětří, roztrhané  
+kusy nebe a moře  
+tam v horizontu, který je  
+                                                 polibkem:  
+polibkem oka co to vidí  
+a čisté přítomnosti zbavené citu  
+                                      a lidské paměti.

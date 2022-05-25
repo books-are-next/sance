@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Šance</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Psát dopis mrtvému otci…</text>
+      </navLabel>
+      <content src="Text/sance_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Řecko</text>
+      </navLabel>
+      <content src="Text/sance_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Pomalé večery</text>
+      </navLabel>
+      <content src="Text/sance_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Báseň na narození syna</text>
+      </navLabel>
+      <content src="Text/sance_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Tak bydlí…</text>
+      </navLabel>
+      <content src="Text/sance_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Budeme tedy souzeni…</text>
+      </navLabel>
+      <content src="Text/sance_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Obitou věnci</text>
+      </navLabel>
+      <content src="Text/sance_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Ale já…</text>
+      </navLabel>
+      <content src="Text/sance_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Tohle století kvete černě a zeleně</text>
+      </navLabel>
+      <content src="Text/sance_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Po návratu z Řecka</text>
+      </navLabel>
+      <content src="Text/sance_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Olomouc</text>
+      </navLabel>
+      <content src="Text/sance_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ale až za koncem a nejhloub…</text>
+      </navLabel>
+      <content src="Text/sance_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Šance</text>
+      </navLabel>
+      <content src="Text/sance_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Starý gnostický příběh</text>
+      </navLabel>
+      <content src="Text/sance_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>V tmavomodrém Babylóně</text>
+      </navLabel>
+      <content src="Text/sance_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Sklenění mrtví ve staré Polsce</text>
+      </navLabel>
+      <content src="Text/sance_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Já si tě najdu</text>
+      </navLabel>
+      <content src="Text/sance_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Bylina Balan evin</text>
+      </navLabel>
+      <content src="Text/sance_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Je květen, horký večer</text>
+      </navLabel>
+      <content src="Text/sance_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Řeč vodotrysků</text>
+      </navLabel>
+      <content src="Text/sance_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Voják v modré uniformě odpouštění</text>
+      </navLabel>
+      <content src="Text/sance_025.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Já</text>
+      </navLabel>
+      <content src="Text/sance_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Dřevěné mečíky</text>
+      </navLabel>
+      <content src="Text/sance_027.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Rybník Výskok</text>
+      </navLabel>
+      <content src="Text/sance_028.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Vánoční báj</text>
+      </navLabel>
+      <content src="Text/sance_029.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Cesta lesem</text>
+      </navLabel>
+      <content src="Text/sance_030.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Na hradbách keltského města</text>
+      </navLabel>
+      <content src="Text/sance_031.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Třicáté páté narozeniny</text>
+      </navLabel>
+      <content src="Text/sance_032.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Kdo jí ovoce jazyka?</text>
+      </navLabel>
+      <content src="Text/sance_033.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Smrková smrt</text>
+      </navLabel>
+      <content src="Text/sance_034.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Když chodil král Jeroboám</text>
+      </navLabel>
+      <content src="Text/sance_035.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Lesy šumí, větry vanou</text>
+      </navLabel>
+      <content src="Text/sance_036.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>A všechno to vede na nebe Řecka</text>
+      </navLabel>
+      <content src="Text/sance_037.xhtml#_idParaDest-33"/>
+    </navPoint>
+  </navMap>
+</ncx>
