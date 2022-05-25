@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-564c3d3';
+const CACHE = 'cache-668e497';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./sance_005.html","./sance_006.html","./sance_007.html","./sance_008.html","./sance_011.html","./sance_013.html","./sance_014.html","./sance_015.html","./sance_017.html","./sance_018.html","./sance_019.html","./sance_020.html","./sance_021.html","./sance_022.html","./sance_023.html","./sance_024.html","./sance_025.html","./sance_026.html","./sance_027.html","./sance_028.html","./sance_029.html","./sance_030.html","./sance_031.html","./sance_032.html","./sance_033.html","./sance_034.html","./sance_035.html","./sance_036.html","./sance_037.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_sance.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./sance_005.html","./sance_006.html","./sance_008.html","./sance_007.html","./sance_011.html","./sance_013.html","./sance_014.html","./sance_015.html","./sance_017.html","./sance_018.html","./sance_019.html","./sance_020.html","./sance_021.html","./sance_022.html","./sance_023.html","./sance_024.html","./sance_025.html","./sance_026.html","./sance_027.html","./sance_028.html","./sance_029.html","./sance_030.html","./sance_031.html","./sance_032.html","./sance_033.html","./sance_034.html","./sance_035.html","./sance_036.html","./sance_037.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_sance.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
