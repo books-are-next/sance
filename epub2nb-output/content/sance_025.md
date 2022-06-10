@@ -3,6 +3,8 @@ title: "Voják v\_modré uniformě odpouštění"
 contentType: poetry
 ---
 
+<section>
+
 Každý den od rána  
           bohové odpouštějí nám  
           naše skutky,  
@@ -25,3 +27,5 @@ a nevíš, kde zítra navážeš,
                                  kterou neobsáhneš,  
 jsi voják v modré uniformě  
                                                      odpouštění.
+
+</section>

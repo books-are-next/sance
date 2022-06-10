@@ -3,6 +3,8 @@ title: Když chodil král Jeroboám
 contentType: poetry
 ---
 
+<section>
+
 Bůh je veliký a je v něm místo  
 i pro tebe,  
 nejen pro Židy semleté na morek  
@@ -15,7 +17,9 @@ dcera slova, vyvolená
 tak jako každá druhá,  
 každá druhá královna ze Sáby.
 
-  
+</section>
+
+<section>
 
 Je místo v Bohu, odkud přesný  
 paprsek soucitu a lásky  
@@ -45,3 +49,5 @@ je svoboda. Druhé jméno svobody
 je vina.  
 Neodloupnutelná jak kůže.  
 Kdy se rozzáří má jasná hvězda?
+
+</section>

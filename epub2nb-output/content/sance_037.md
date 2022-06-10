@@ -3,6 +3,8 @@ title: "A\_všechno to vede na nebe Řecka"
 contentType: poetry
 ---
 
+<section>
+
 Nechme to odležet jako sýr,  
 jako všechny ty lidi, co byli krásní,  
 nechme to odležet  
@@ -22,3 +24,5 @@ a neumí nic jiného
 zlaté stíny na kopcích na zemi  
 kudy malé průvody kráčejí  
 svrhnout sochy knih.
+
+</section>

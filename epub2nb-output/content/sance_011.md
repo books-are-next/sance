@@ -3,6 +3,8 @@ title: Obitou věnci
 contentType: poetry
 ---
 
+<section>
+
 Ta touha sáhnout na sebe  
           v pruhovaných šatech na dětském kolotoči  
 touha otočit čas  
@@ -10,7 +12,9 @@ touha otočit čas
                                                             na barvu vlasů,  
                                                             barvu jeho větru
 
-  
+</section>
+
+<section>
 
 je touhou sáhnout v krvavý bok  
           zmrtvýchvstalého Krista  
@@ -22,7 +26,11 @@ je touhou sáhnout v krvavý bok
                                 avšak obitou věnci a nehynoucí  
                                               vzpomínkou potomků.
 
+</section>
 
+
+
+<section>
 
 Ale já  
 jsem chtěla být jiná:  
@@ -33,3 +41,5 @@ tam v horizontu, který je
 polibkem oka co to vidí  
 a čisté přítomnosti zbavené citu  
                                       a lidské paměti.
+
+</section>

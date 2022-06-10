@@ -3,6 +3,8 @@ title: Řecko
 contentType: poetry
 ---
 
+<section>
+
 Jako bedna na ohořelé svíce v pravoslavném kostele,  
 smutná a přece ne,  
 jako bedna písku na zhasínání svící v pravoslavném  
@@ -16,7 +18,9 @@ vyfotit drobná pozorování,
 poslouchat strašný řev krocanů a impotentní bekot krůt,  
 větve se sklání dozadu — vane severák.
 
-  
+</section>
+
+<section>
 
 Toto vše nebude ani vzpomínkou, ani záznamem  
                                                                                mysli,  
@@ -46,3 +50,5 @@ vím, že je oko boha jak trychtýř soli
 a já že jsem člověk,  
 bez jména a vlasti,  
 odsouzený k jedné straně hranice.
+
+</section>

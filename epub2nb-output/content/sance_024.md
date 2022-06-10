@@ -3,6 +3,8 @@ title: Řeč vodotrysků
 contentType: poetry
 ---
 
+<section>
+
 Držela jsem ti zrcadlo a konečky oholených vousů  
 plavaly v mýdlové vodě  
 jako malé každodenní smrti.  
@@ -19,7 +21,9 @@ Začala doba uvozovek:
 o ten kus nafouklejší  
                                          výsměch idejím.
 
-  
+</section>
+
+<section>
 
 Ale ještě stojí solné sochy u Mrtvého moře,  
 ještě je Jeruzalém, Athény a Řím,  
@@ -51,3 +55,5 @@ Kdo uvidí, kdo uslyší
                                                               jako vrh kostek  
 Kdo vypoví mrtvé děti  
      na třaslavých píscích dějin…
+
+</section>

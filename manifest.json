@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-sance-668e497",
-  "revision": "668e497",
+  "identifier": "fischerova-sance-6bb6e48",
+  "revision": "6bb6e48",
   "readingOrder": [
     "promo.html",
     "sance_005.html",
@@ -44,8 +44,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed May 25 2022 05:19:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653455957993
+    "date": "Fri Jun 10 2022 17:55:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883726661
   },
   "documents": [
     {
@@ -103,9 +103,9 @@
     {
       "title": "Pomalé večery",
       "file": "sance_007.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 34,
+      "chars": 188,
+      "ideas": 8,
       "role": "chapter",
       "order": 3,
       "prev": "sance_006.html",
@@ -163,9 +163,9 @@
     {
       "title": "Tohle století kvete černě a zeleně",
       "file": "sance_013.html",
-      "words": 6,
-      "chars": 34,
-      "ideas": 1,
+      "words": 183,
+      "chars": 1032,
+      "ideas": 39,
       "role": "chapter",
       "order": 6,
       "prev": "sance_011.html",
@@ -303,9 +303,9 @@
     {
       "title": "Já si tě najdu",
       "file": "sance_021.html",
-      "words": 4,
-      "chars": 14,
-      "ideas": 1,
+      "words": 277,
+      "chars": 1515,
+      "ideas": 47,
       "role": "chapter",
       "order": 13,
       "prev": "sance_020.html",
@@ -323,9 +323,9 @@
     {
       "title": "Bylina Balan evin",
       "file": "sance_022.html",
-      "words": 3,
-      "chars": 17,
-      "ideas": 1,
+      "words": 74,
+      "chars": 358,
+      "ideas": 21,
       "role": "chapter",
       "order": 14,
       "prev": "sance_021.html",
@@ -383,9 +383,9 @@
     {
       "title": "Voják v modré uniformě odpouštění",
       "file": "sance_025.html",
-      "words": 5,
-      "chars": 33,
-      "ideas": 1,
+      "words": 74,
+      "chars": 441,
+      "ideas": 23,
       "role": "chapter",
       "order": 17,
       "prev": "sance_024.html",
@@ -423,9 +423,9 @@
     {
       "title": "Dřevěné mečíky",
       "file": "sance_027.html",
-      "words": 2,
-      "chars": 14,
-      "ideas": 1,
+      "words": 135,
+      "chars": 710,
+      "ideas": 29,
       "role": "chapter",
       "order": 19,
       "prev": "sance_026.html",
@@ -443,9 +443,9 @@
     {
       "title": "Rybník Výskok",
       "file": "sance_028.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 56,
+      "chars": 311,
+      "ideas": 13,
       "role": "chapter",
       "order": 20,
       "prev": "sance_027.html",
@@ -523,9 +523,9 @@
     {
       "title": "Třicáté páté narozeniny",
       "file": "sance_032.html",
-      "words": 3,
-      "chars": 23,
-      "ideas": 1,
+      "words": 251,
+      "chars": 1462,
+      "ideas": 58,
       "role": "chapter",
       "order": 24,
       "prev": "sance_031.html",
@@ -543,9 +543,9 @@
     {
       "title": "Kdo jí ovoce jazyka?",
       "file": "sance_033.html",
-      "words": 4,
-      "chars": 20,
-      "ideas": 1,
+      "words": 162,
+      "chars": 866,
+      "ideas": 30,
       "role": "chapter",
       "order": 25,
       "prev": "sance_032.html",
@@ -563,9 +563,9 @@
     {
       "title": "Smrková smrt",
       "file": "sance_034.html",
-      "words": 2,
-      "chars": 12,
-      "ideas": 1,
+      "words": 184,
+      "chars": 1012,
+      "ideas": 41,
       "role": "chapter",
       "order": 26,
       "prev": "sance_033.html",
@@ -623,9 +623,9 @@
     {
       "title": "A všechno to vede na nebe Řecka",
       "file": "sance_037.html",
-      "words": 7,
-      "chars": 31,
-      "ideas": 1,
+      "words": 86,
+      "chars": 470,
+      "ideas": 20,
       "role": "chapter",
       "order": 29,
       "prev": "sance_036.html",
@@ -643,9 +643,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 115,
-      "chars": 731,
-      "ideas": 16,
+      "words": 83,
+      "chars": 558,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "sance_037.html",
@@ -663,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3301,
-      "chars": 18389,
-      "ideas": 740
+      "words": 4745,
+      "chars": 26357,
+      "ideas": 1049
     },
     "chapters": {
-      "words": 3181,
-      "chars": 17626,
-      "ideas": 720
+      "words": 4657,
+      "chars": 25767,
+      "ideas": 1038
     }
   }
 }

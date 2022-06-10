@@ -3,13 +3,17 @@ title: Na hradbách keltského města
 contentType: poetry
 ---
 
+<section>
+
 Když vlaje slunce, jsme bílé mávající  
                                                             prapory léta.  
 Chlapci hážou kamením, ale už napůl  
       za hradbami krve, kde není cesty, není  
       mapy ani pěšinky —
 
-  
+</section>
+
+<section>
 
 Kmeny bříz jsou bílé prapory léta  
 a duby kostrou vztyčenou ze stínů mrtvých  
@@ -33,7 +37,11 @@ jenom svým trváním:
                                                  ve chvíli smrti  
                                                  a toto Ty je tvůj podíl.
 
-  
+</section>
+
+<section>
 
 — Házet kamením na hradbách,  
       vlát jako bílé prapory léta!
+
+</section>

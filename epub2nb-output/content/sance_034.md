@@ -3,6 +3,8 @@ title: Smrková smrt
 contentType: poetry
 ---
 
+<section>
+
 Tam roste  
 tvá smrt: na tom smrkovém kopci,  
 kde sis poprvé nasadila smrková křídla  
@@ -43,3 +45,5 @@ a s jedním úsměvem jen pro tebe
 jen tobě úsměšek nebo pocta  
 v poslední chvíli  
 za voskovými zuby.
+
+</section>

@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: poetry
 ---
 
+<section>
+
 Psát dopis mrtvému otci  
 Hledat ve zdi tajemství  
 Počítat svoje viny a nedopočítat se  
@@ -13,7 +15,9 @@ Bojovat s nemocí jako s tichou hloupou obludou,
                                   bojovat s bohem i lidmi  
                                                                                 a neprohrát.
 
-  
+</section>
+
+<section>
 
 Psát dopisy mrtvému otci,  
 myslet na mrtvé jako na vrata otvírající  
@@ -29,7 +33,9 @@ světlo je v budoucnu nebo v přítomnu —
                    je to cesta,  
                    vroubí ji rozkvetlé světelné rododendrony.
 
-  
+</section>
+
+<section>
 
 Minulost je paměť. Možná je živá, ale  
 neoživuje. Kam padá stín, ptej se,  
@@ -38,7 +44,9 @@ co bylo, protože světlo září před námi.
 Skřek havrana tkví ve vzduchu jako rána  
 dlouho poté, co odlétl.
 
-  
+</section>
+
+<section>
 
 Budoucí už dělá místo tam vzadu,  
 překopává minulost  
@@ -51,7 +59,9 @@ zavražděné oči, vysezená odpoledne, rána plující
                      jak to, co bylo, a ty sis to  
                                                                      nezapamatoval.
 
-  
+</section>
+
+<section>
 
 > Psát svému mrtvému otci  
 >        znamená psát otci, který teprv bude,  
@@ -63,3 +73,5 @@ zavražděné oči, vysezená odpoledne, rána plující
 >              Možná neprohraju, říkám si,  
 >                                              ale  
 >                                              svedu boj.
+
+</section>

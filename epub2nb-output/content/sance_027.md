@@ -3,6 +3,8 @@ title: Dřevěné mečíky
 contentType: poetry
 ---
 
+<section>
+
 Čas utíká a nechává po sobě  
 jen stopu, do které se nikdy  
 nemůžeš vejít.  
@@ -31,3 +33,5 @@ Setne jí hlavu a dá jí svou,
 protože je to žena, aspoň trochu…  
 A to je koruna Naděje, nejkorunnější  
 ze všech ctností…
+
+</section>

@@ -3,6 +3,8 @@ title: Sklenění mrtví ve staré Polsce
 contentType: poetry
 ---
 
+<section>
+
 Žlutá hvězda září jak mor a rakovina  
 a je všitá do kůže a nebude  
 ospravedlňovat boha.  
@@ -33,7 +35,9 @@ A nebe mezi je děravé, vykousané
                  a hledí na březový háj,  
                  zatímco zasklení živí spí.
 
-  
+</section>
+
+<section>
 
 Služba je dlouhá,  
 dlouhá noc,  
@@ -43,7 +47,9 @@ svítí jak měsíc
                  na anabolu anakondu vesmíru,  
 svítí jak rakovina na starou Polsku.
 
-  
+</section>
+
+<section>
 
 Stojím na terase a křičím:  
 Mám nesmrtelnou duši!  
@@ -51,7 +57,9 @@ Nic k tomu, ani záhon rajčat
 v anabole anakondě vesmíru  
 ale dvě děti a nesmrtelnou duši!
 
-  
+</section>
+
+<section>
 
 — V jiskře zapálené bohem  
 rozdmychané ďáblem  
@@ -59,3 +67,5 @@ odfoukávané lidmi
 a s kostkou cukru v zubech  
 sklenění mrtví celou noc  
 tiše pijí cikorku.
+
+</section>

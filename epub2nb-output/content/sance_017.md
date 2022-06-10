@@ -3,13 +3,17 @@ title: Šance
 contentType: poetry
 ---
 
+<section>
+
 Dej si!  
 Dej si tenhle dům  
                                    na kraji lesa.  
 Říkají tomu tady na Šancích,  
 a jsou to šance, pro tebe —
 
-  
+</section>
+
+<section>
 
 po všech těch špitálních nocích modliteb  
 po dnech sežraných špitální televizí  
@@ -25,7 +29,9 @@ a jak na lesní roh
 hraje na radost. Nebe napodobuje  
                 jejich úsměvy…
 
-  
+</section>
+
+<section>
 
 Ale my! Kdybychom pochopili jedinou věc až do  
                                                                                        konce —  
@@ -45,3 +51,5 @@ A na to padá zlaté světlo
 vyšlapané nohama andělů…  
 Kdybychom pochopili jedinou věc až do konce,  
 svět by byl ztracen.
+
+</section>

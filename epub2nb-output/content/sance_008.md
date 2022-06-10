@@ -3,12 +3,16 @@ title: Báseň na narození syna
 contentType: poetry
 ---
 
+<section>
+
 Ráno stál na obloze tenký srpek měsíce.  
 Nebe bylo ještě modré, jen dole  
 pár mraků táhlo jižním směrem.  
 Slunce padalo na trávu.
 
-  
+</section>
+
+<section>
 
 A pak se všecka ta sláva  
 vylila do hrdla nebes  
@@ -33,7 +37,9 @@ a průhlednými stoly, v krajině slabik a zpěvů
 na vnitřní straně očí: věci  
                                           ztuhnou na lávu.
 
-  
+</section>
+
+<section>
 
 Teď všecka ta sláva se vylévá  
 do hrdla nebes  
@@ -46,7 +52,11 @@ dítě ho slyší, samo bílé jak yzop,
 nepřevoditelné na nic předtím  
                                                   ani potom.
 
+</section>
 
+
+
+<section>
 
 Tak bydlí  
 v minulosti všech lidí.  
@@ -96,7 +106,11 @@ vzduchoprázdno,
 na jehlách křepčící  
                                        přítomnost.
 
+</section>
 
+
+
+<section>
 
 Budeme tedy souzeni  
 jen podle svých skutků?  
@@ -123,3 +137,5 @@ Konec, kdy pluješ rozpažen
 v ledovém tichu vesmíru  
 a vrnění hvězd, těch koťat,  
 už neslyšíš…
+
+</section>
