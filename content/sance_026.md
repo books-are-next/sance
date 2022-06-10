@@ -3,6 +3,8 @@ title: Já
 contentType: poetry
 ---
 
+<section>
+
 Hoří svíce  
 a není co říct Člověk je sám a smutný  
                                              před plamenem  
@@ -34,7 +36,11 @@ protože Ábel nechápe proč není
 Já  
 jak střečkem pobodávané smrtí —
 
-  
+</section>
+
+<section>
 
 Já, konečná, nenahraditelná, dokonalá  
 tak jako všichni.
+
+</section>

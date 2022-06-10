@@ -3,6 +3,8 @@ title: Já si tě najdu
 contentType: poetry
 ---
 
+<section>
+
 Posbírám si tě, Bože, z modrého vlčího bobu a z dýmu  
 z komína chalupy,  
 posbírám si tě z ledopádu na potoce, toho bledého  
@@ -49,3 +51,5 @@ mezi nicotou a dobrem,
 mezi člověkem  
                              ukřižovaným mezi nimi a o své vůli,  
                              tak jako všude.
+
+</section>

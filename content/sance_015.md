@@ -3,6 +3,8 @@ title: Olomouc
 contentType: poetry
 ---
 
+<section>
+
 Domy jsou tu naskládané na sebe  
                       jak dýhy na dřevě,  
                       jako epochy.  
@@ -28,7 +30,11 @@ sen, o jakém jen snili —
          jaký se ani snem  
                      nedá vypovědět.
 
+</section>
 
+
+
+<section>
 
 Ale až za koncem a nejhloub  
 touha být jako všichni:  
@@ -42,3 +48,5 @@ na ulici Montmartru,
 já jsem taky chtěla klid a prachy  
 a jasné barvy kamenů pod vodou.  
 Jasné barvy kamenů pod vodou!
+
+</section>

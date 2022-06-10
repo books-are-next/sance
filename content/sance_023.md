@@ -3,6 +3,8 @@ title: Je květen, horký večer
 contentType: poetry
 ---
 
+<section>
+
 a pod mračným nebem  
 zubatý štít střechy  
                                      jako kulisa:  
@@ -19,14 +21,18 @@ zatímco stojí na nočním spánku dětí,
            na zámku postaveném  
                                                         z jejich dechu
 
-  
+</section>
+
+<section>
 
 Budou opakovat tytéž chyby?  
 Ptát se po smyslu  
 kde křupou lasičí hlavy  
 a meteory sviští vesmírem
 
-  
+</section>
+
+<section>
 
 Uprostřed vesmíru  
 svítí bílý zahradní nábytek  
@@ -36,7 +42,9 @@ a pijí kávu
 Otvírají ústa ale není slyšet  
 Proč zmizeli tak daleko?
 
-  
+</section>
+
+<section>
 
 > Děti je namalovaly a teď  
 > kupují listí, prodávají písek  
@@ -47,3 +55,5 @@ Proč zmizeli tak daleko?
 >                     který je má rád! tak jako všichni  
 > Děti dovedou měšťáky  
 > až do bran království nebeského…
+
+</section>

@@ -3,6 +3,8 @@ title: Lesy šumí, větry vanou
 contentType: poetry
 ---
 
+<section>
+
 Je noc kdy otvírá se  
                                        nebi brána  
 a ty jsi o schod Bohu blíž  
@@ -13,7 +15,9 @@ zeje tam vprostřed hvězd
 jak jáma! krvavá díra  
                    splatná až za hrob…
 
-  
+</section>
+
+<section>
 
 Je noc a člověk rukou odhání sny  
                   a tmou si zahaluje tvář,  
@@ -32,7 +36,9 @@ možná mu pustí dechovku!
 Ale nebudou mu rozumět  
 a nebudou ho mít rádi…
 
-  
+</section>
+
+<section>
 
 Tak jako Krista nepotkali  
 cestou do Kafarnaum,  
@@ -47,7 +53,9 @@ za hluchých hodin podvečera
 a nad rakví otce, rakví matky,  
 to je ta prázdnota, do které spouštějí rakev —
 
-  
+</section>
+
+<section>
 
 Mít rád toho, koho neznáš.  
 Za zvuků dechovky  
@@ -55,3 +63,5 @@ a řevu kameníků zchlastaných pivem
 ryjících do desky:  
                                    Lesy šumí, větry vanou,  
                                    sbohem a na shledanou!
+
+</section>

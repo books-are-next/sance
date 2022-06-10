@@ -3,6 +3,8 @@ title: "Po návratu z\_Řecka"
 contentType: poetry
 ---
 
+<section>
+
 Kam dovidět? Rybník, malé oko země,  
 myslí, že nahoře  
 vidí svůj obraz: nebe. Túje v zahradě  
@@ -13,7 +15,9 @@ a vztyčuju chatrnou svislici,
 skromně a už bez své vlajky: zas jenom oko  
 snažící se dovidět.
 
-  
+</section>
+
+<section>
 
 Ale oni byli rozprostranění  
 jak jejich moře, nemuseli vztyčovat zrak,  
@@ -23,7 +27,9 @@ kam zapadá slunce. Na solnou pláň oslavenou sluncem.
 To je oslava: když usedne pěvec  
 a hostina je začátkem písně.
 
-  
+</section>
+
+<section>
 
 A přece ani tam už nechodí bozi po zemi  
 a básník není prorok, svatý a políbený.  
@@ -39,3 +45,5 @@ slova pro davy mrtvých a nezrozených
 a sotva zrozených mláďat,  
 co ještě vědí: že jednou srdce přeskočí jazyk  
                           a člověk vypoví všecko —
+
+</section>

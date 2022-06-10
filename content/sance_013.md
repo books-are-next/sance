@@ -3,6 +3,8 @@ title: "Tohle století kvete černě a\_zeleně"
 contentType: poetry
 ---
 
+<section>
+
 A ovšem všichni jsouce obrazy doby,  
 řešením její rovnice.  
 A v rámu doby zase ta zakuklená  
@@ -41,3 +43,5 @@ bez šému na čele,
 šém jim vytrhl Bůh,  
 když se na ně  
                            zlobil!
+
+</section>

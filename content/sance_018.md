@@ -3,12 +3,16 @@ title: Starý gnostický příběh
 contentType: poetry
 ---
 
+<section>
+
 Desatero nebes  
 stvořených a odvozených  
 a teprve v posledním  
                                           žijeme my
 
-  
+</section>
+
+<section>
 
 Devatero nebes mezi námi a bohem  
 který nás nestvořil  
@@ -35,7 +39,9 @@ se dál plouží světem
 s těmi nevýslovně smutnými  
                                                         trhanými pohyby
 
-  
+</section>
+
+<section>
 
                 zajatců  
                 přesvědčených o svobodě,  
@@ -43,3 +49,5 @@ s těmi nevýslovně smutnými
                                         tohoto světa,  
                 o říši barevných  
                                                  toulavých květin
+
+</section>
