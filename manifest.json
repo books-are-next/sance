@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-sance-6bb6e48",
-  "revision": "6bb6e48",
+  "identifier": "fischerova-sance-a3c1fac",
+  "revision": "a3c1fac",
   "readingOrder": [
     "promo.html",
     "sance_005.html",
@@ -44,8 +44,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:55:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883726661
+    "date": "Sat Jun 11 2022 12:10:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949447565
   },
   "documents": [
     {
