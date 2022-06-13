@@ -31,6 +31,6 @@ má píseň
 Pak potká ženu  
 a ta mu ukradne píseň  
 a zradí jeho milované  
-                                             srdce
+            srdce
 
 </section>

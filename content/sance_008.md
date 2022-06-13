@@ -18,7 +18,7 @@ A pak se všecka ta sláva
 vylila do hrdla nebes  
 zatímco černí pardáli se plížili za kořistí  
 žluté oči tygrů rozbíjely tmu  
-                 na kusy z dětského dalekohledu  
+            na kusy z dětského dalekohledu  
 a ježci šustili pod keři, žrali žížaly, plivali listí.  
 I všichni netvoři chválili Hospodina  
 a ty, zrozený pod kometou a ve sluneční vichrnici  
@@ -35,7 +35,7 @@ se už zpátky nenavrátí —
 už nikdy nebudeš znovu žít mezi plovoucími květinami  
 a průhlednými stoly, v krajině slabik a zpěvů  
 na vnitřní straně očí: věci  
-                                          ztuhnou na lávu.
+            ztuhnou na lávu.
 
 </section>
 
@@ -45,15 +45,14 @@ Teď všecka ta sláva se vylévá
 do hrdla nebes  
 a já jsem velká, šťastná, bílá jak yzop,  
 jak ten, komu bůh všecko  
-                                            odpustil.  
+            odpustil.  
 To za oknem je déšť:  
 tichý neodkladný posel,  
 dítě ho slyší, samo bílé jak yzop,  
 nepřevoditelné na nic předtím  
-                                                  ani potom.
+            ani potom.
 
 </section>
-
 
 
 <section>
@@ -84,18 +83,18 @@ a chlapce běžícího po pěšině
 mimo moc klapajících mord draků  
 a v příběhu, který si sám složí  
 ze zeleného lesa a nebe a divokého  
-                                                                    povětří.  
+            povětří.  
 Vidí pět světů minulých a pět světů  
-                                             budoucích,  
+            budoucích,  
 oči zemřelých, ústa nezrozených,  
 touhy pomazaných… Vidí!  
 Města rostou jak žluté a zelené  
-                                     výhonky hořčice  
+            výhonky hořčice  
 a zase se bortí,  
 čas je prach a čas je hlína!  
 A ona má čas v břiše  
 a s ním pažravé, věčné  
-                                   město snu:  
+            město snu:  
 obraz chlapce na pláži u moře,  
 jak hledá zapomenuté autíčko v písku,  
 čas je přesýpací  
@@ -104,11 +103,9 @@ písečných hodin,
 bydlí nezjevná sláva stvoření,  
 vzduchoprázdno,  
 na jehlách křepčící  
-                                       přítomnost.
+            přítomnost.
 
 </section>
-
-
 
 <section>
 
@@ -121,15 +118,15 @@ vrhali pochybnost jak stín,
 nevěděli, jak a za co se modlit,  
 ale modlili se vždycky —  
 za kuropění i v dračím svitu  
-                       továrních komínů,  
+            továrních komínů,  
 u prašivých, přežraných nemocničních koček  
 anebo doma  
-                          v krutém a bezútěšném světle rána.  
+            v krutém a bezútěšném světle rána.  
 Kdy úsvit je útes  
 plující mořem plochých ledových ker  
 s nápisy  
-                 Beznaděj Nevěra Násilí  
-                 Chlemstání Konec.  
+            Beznaděj Nevěra Násilí  
+            Chlemstání Konec.  
 A Konec, ale s koncem:  
 žádná veselá předpeklí,  
 anekdoty na pivě.  

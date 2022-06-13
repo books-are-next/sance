@@ -8,9 +8,9 @@ contentType: poetry
 Bůh je veliký a je v něm místo  
 i pro tebe,  
 nejen pro Židy semleté na morek  
-                                      v peci pouště,  
+            v peci pouště,  
 pro jejich vyvolenost zadělanou krví,  
-                                          zalitou pokušením.  
+            zalitou pokušením.  
 Slovo u Boha  
 je i slovo pro mě, jsem taky  
 dcera slova, vyvolená  
@@ -27,10 +27,10 @@ dopadá na mé čelo
 a jednou na něm rozzáří mou jasnou hvězdu.  
 Až snesu soucit žebráka, až řeknu:  
 Ten žebrák, ten paprsek  
-                                              je Kristus.  
+            je Kristus.  
 Když chodil král Jeroboám  
 s Bohem po jeho cestách,  
-                                                  bylo dobře.  
+            bylo dobře.  
 Když nechodil, bylo zle,  
 Pelištejci řičeli  
 a Chetejci, Amorejci, Moábci,  

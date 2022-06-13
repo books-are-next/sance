@@ -37,13 +37,13 @@ Jenom slova k nám přicházejí,
 slova v řeči bohů, která se přece musí  
 podobat naší —  
 i v téhle temněhnědé zemi, kde kopřiva  
-                                                                             stíhá bláto  
+            stíhá bláto  
 a nebe tě hrozí zavalit  
 ráno co ráno —  
 i tady v Českém lese slyšíš  
 slova pro davy mrtvých a nezrozených  
 a sotva zrozených mláďat,  
 co ještě vědí: že jednou srdce přeskočí jazyk  
-                          a člověk vypoví všecko —
+            a člověk vypoví všecko —
 
 </section>
