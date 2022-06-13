@@ -6,30 +6,30 @@ contentType: poetry
 <section>
 
 Je noc kdy otvírá se  
-                                       nebi brána  
+            nebi brána  
 a ty jsi o schod Bohu blíž  
 ale nevíš jakému  
 a jestli žádnému  
 — Není-li však Boha, jeho nejsoucnost  
 zeje tam vprostřed hvězd  
 jak jáma! krvavá díra  
-                   splatná až za hrob…
+            splatná až za hrob…
 
 </section>
 
 <section>
 
 Je noc a člověk rukou odhání sny  
-                  a tmou si zahaluje tvář,  
-                  nechce svůj osud,  
-                  osud je mrtvola!  
-                  ale bůh je živý —  
+            a tmou si zahaluje tvář,  
+            nechce svůj osud,  
+            osud je mrtvola!  
+            ale bůh je živý —  
 A jestli není, není-li vskutku Boha,  
 pak je živý jak nenarozené děcko!  
 A teprv bude!  
 Je uvnitř ve světě a vyskočí z něj do něj  
 za řevu démonů  
-                               a jekotu zahradních pil,  
+            a jekotu zahradních pil,  
 možná ho uvítají na náměstí  
 jako Vrchního Opraváře,  
 možná mu pustí dechovku!  
@@ -48,7 +48,7 @@ on je v tom prázdném hrobě!
 Ten prázdný hrob je Kristus!  
 ten odhalený balvan a černá jáma za ním,  
 hádanka Boží, prázdnota kterou  
-                                                 hmatáš v sobě  
+            hmatáš v sobě  
 za hluchých hodin podvečera  
 a nad rakví otce, rakví matky,  
 to je ta prázdnota, do které spouštějí rakev —
@@ -61,7 +61,7 @@ Mít rád toho, koho neznáš.
 Za zvuků dechovky  
 a řevu kameníků zchlastaných pivem  
 ryjících do desky:  
-                                   Lesy šumí, větry vanou,  
-                                   sbohem a na shledanou!
+            Lesy šumí, větry vanou,  
+            sbohem a na shledanou!
 
 </section>

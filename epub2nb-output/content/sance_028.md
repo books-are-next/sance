@@ -13,9 +13,9 @@ V rybníku kapři skákali radostí
          ono přitahovalo radost,  
          bylo obličejem Boha  
          a říkalo:  
-                         Doufej, več nelze doufat  
-                         Připoj počátek ke konci  
-                         a nebuď smuten, i když tak opustíš  
-                                                    cestu všech lidí
+            Doufej, več nelze doufat  
+            Připoj počátek ke konci  
+            a nebuď smuten, i když tak opustíš  
+            cestu všech lidí
 
 </section>

@@ -8,9 +8,9 @@ contentType: poetry
 Jako bedna na ohořelé svíce v pravoslavném kostele,  
 smutná a přece ne,  
 jako bedna písku na zhasínání svící v pravoslavném  
-                                                                                            kostele,  
+            kostele,  
 pak jehňátko, co si s náma hrálo a nechtělo nás  
-                                                                                            opustit,  
+            opustit,  
 přesný čtverec bouře nad mořem  
 a místo tam v dáli, na které prší:  
 vystoupit tedy z auta, vyfotit bouři nad mořem,  
@@ -23,7 +23,7 @@ větve se sklání dozadu — vane severák.
 <section>
 
 Toto vše nebude ani vzpomínkou, ani záznamem  
-                                                                               mysli,  
+            mysli,  
 nedotklo se toho božstvo,  
 jen beránek boží na sebe vzal mou tíhu  
 a neupadnul, ale odskákal,  
@@ -44,7 +44,7 @@ Bůh nám pořád sedí na oblaku
 a počítá beránky. Naše čtverce jsou krychle  
 a hostí další krabičky, kufry a bedničky.  
 Jenom když vyjdu na terasu a vidím zlatý pruh  
-                                                                         na moři,  
+            na moři,  
 kam sahá slunce, tu hranici, za kterou nelze,  
 vím, že je oko boha jak trychtýř soli  
 a já že jsem člověk,  

@@ -8,7 +8,7 @@ contentType: poetry
 Desatero nebes  
 stvořených a odvozených  
 a teprve v posledním  
-                                          žijeme my
+            žijeme my
 
 </section>
 
@@ -18,13 +18,13 @@ Devatero nebes mezi námi a bohem
 který nás nestvořil  
            a nestará se o nás  
 A řehtající se ďábel, náš  
-                                        milující otec,  
+            milující otec,  
 skáče po střechách porodnic  
           a v porodních sálech  
 po čerstvě narozených dětech tmy  
 po svých dětech,  
-                                 co v sobě vězní  
-                  jiskřičku světla  
+            co v sobě vězní  
+            jiskřičku světla  
 Ale nevědí o tom  
 nepamatují se na nic  
 chodí po světě  
@@ -37,17 +37,17 @@ ale pak světlo zmizí
 a mechanické loutky  
 se dál plouží světem  
 s těmi nevýslovně smutnými  
-                                                        trhanými pohyby
+            trhanými pohyby
 
 </section>
 
 <section>
 
-                zajatců  
-                přesvědčených o svobodě,  
-                o království  
-                                        tohoto světa,  
-                o říši barevných  
-                                                 toulavých květin
+            zajatců  
+            přesvědčených o svobodě,  
+            o království  
+            tohoto světa,  
+            o říši barevných  
+            toulavých květin
 
 </section>

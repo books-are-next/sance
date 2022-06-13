@@ -30,26 +30,26 @@ je nespojitý a krutý až na kost:
 na barvotiskovou  
 skořápku světa. A pod ní bydlí lítost.  
 Ale já si tě, Bože, složím do nebeských sfér a do Pláně  
-                                                                                             Pravdy,  
+            Pravdy,  
 až z tebe zůstane jen démon  
 nebo starý slepý červ, co se nestará o nic,  
 obklopím tě sestupným houfem andělů a řadou pekel,  
 dřevěným vesnickým Kristem, který snad vládne  
-                                                  v této sféře nebes, tady  
-                                                  je tvůj syn.  
+            v této sféře nebes, tady  
+            je tvůj syn.  
 Nechal jsi rozeseté zlo  
 po všech stupních stvoření kromě sebe sama.  
 Každé ráno si vytahuju jeho špinky z očí.  
 Každý večer mi těžká temná ploutev tlačí srdce.  
 Ale já si tě ukolíbám na stříbrných příborech  
-                                                     zabitých Židů  
+            zabitých Židů  
 jako dokonalého chlapce stvoření,  
 dokonalého chlapce nad pudinkem s rozinkama  
-                                                           na Pláni Pravdy,  
+            na Pláni Pravdy,  
 kde fičí ledové vichry  
 mezi nicotou a dobrem,  
 mezi člověkem  
-                             ukřižovaným mezi nimi a o své vůli,  
-                             tak jako všude.
+            ukřižovaným mezi nimi a o své vůli,  
+            tak jako všude.
 
 </section>

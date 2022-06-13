@@ -6,7 +6,7 @@ contentType: poetry
 <section>
 
 Když vlaje slunce, jsme bílé mávající  
-                                                            prapory léta.  
+            prapory léta.  
 Chlapci hážou kamením, ale už napůl  
       za hradbami krve, kde není cesty, není  
       mapy ani pěšinky —
@@ -21,21 +21,21 @@ a kámen ostřím oplakané zbraně.
 Paměť lidí je jako paměť listí,  
 zelená a vadne, vždyť čas  
 není kámen, křesanost  
-                                        sochy myšlenky —  
+            sochy myšlenky —  
 ne, čas je tráva, ta dokončuje příběhy  
 jenom svým trváním:  
-                      trvání přesadí osud  
-                      a vysadí den,  
-                      jsme přece bytosti dne,  
-                      večer umíráme a ráno  
-                      se rodíme znova  
-                      a jen luk paměti  
-                      nás táhne dolů ke jménu,  
-                                                k černému vědomí Boha  
-                      kázajícího:      Zemřeš, ale budeš to  
-                                                                              ještě ty  
-                                                 ve chvíli smrti  
-                                                 a toto Ty je tvůj podíl.
+            trvání přesadí osud  
+            a vysadí den,  
+            jsme přece bytosti dne,  
+            večer umíráme a ráno  
+            se rodíme znova  
+            a jen luk paměti  
+            nás táhne dolů ke jménu,  
+            k černému vědomí Boha  
+            kázajícího:      Zemřeš, ale budeš to  
+            ještě ty  
+            ve chvíli smrti  
+            a toto Ty je tvůj podíl.
 
 </section>
 

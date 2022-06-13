@@ -19,21 +19,21 @@ Měla by aspoň hlasovat, převážit váhy
 na stranu —  
 sešikovat pluky slunce  
 a nadat významem krychli masa  
-                                      a hyperbolu vesmíru —  
+            a hyperbolu vesmíru —  
 Čas kráčí jen po jedné  
 jeho straně.  
 Druhou obydlují  
-                 příšery, hvězdy a mrtví.  
+            příšery, hvězdy a mrtví.  
 A nebe mezi je děravé, vykousané  
-                                                         jak plechovka —  
-                 děrami zástupy mrtvých Židů  
-                 se každou noc vracejí domů  
-                 vypít si kávu ve skle.  
-                 Každou noc sedávají  
-                 v zasklených verandách  
-                 v domě na kopci  
-                 a hledí na březový háj,  
-                 zatímco zasklení živí spí.
+            jak plechovka —  
+            děrami zástupy mrtvých Židů  
+            se každou noc vracejí domů  
+            vypít si kávu ve skle.  
+            Každou noc sedávají  
+            v zasklených verandách  
+            v domě na kopci  
+            a hledí na březový háj,  
+            zatímco zasklení živí spí.
 
 </section>
 
@@ -43,8 +43,8 @@ Služba je dlouhá,
 dlouhá noc,  
 žlutá hvězda všitá do kůže  
 svítí jak měsíc  
-                 na sny živých,  
-                 na anabolu anakondu vesmíru,  
+            na sny živých,  
+            na anabolu anakondu vesmíru,  
 svítí jak rakovina na starou Polsku.
 
 </section>

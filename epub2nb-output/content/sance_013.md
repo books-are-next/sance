@@ -24,24 +24,24 @@ probourat se až tam dozadu, odkud přítomnost
 roste jak štěp na věčnosti.  
 Chtělas vidět ten správný hloh!  
 Tohle století  
-                         kvete černě a zeleně.  
+            kvete černě a zeleně.  
 Večer z něho vzlínají  
 temné páry techniky a alkoholu,  
 Treblinky a okvětního pylu  
-                                  vesnických jabloní…  
+            vesnických jabloní…  
 Naděje tu bloudí vzduchem  
 jak kulečníková koule.  
 A synáčka poslali rodiče za kopec,  
 až tam, kde na bílém trůnu  
-                                                    sedí prorok,  
+            sedí prorok,  
 který ti neřekne, proč ses narodil…  
 Řekne ti, že neví…  
 Milí pozůstalí budou pojídat střeleného  
-                          jelena s brusinkama,  
+            jelena s brusinkama,  
 pusy mastné,  
 bez šému na čele,  
 šém jim vytrhl Bůh,  
 když se na ně  
-                           zlobil!
+            zlobil!
 
 </section>

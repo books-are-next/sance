@@ -7,32 +7,32 @@ contentType: poetry
 
 Hoří svíce  
 a není co říct Člověk je sám a smutný  
-                                             před plamenem  
+            před plamenem  
 Ptá se co bude Neví  
 Píše jmenný seznam svých Nerozumím  
 Jako by vědění  
-                            ho mohlo zachránit  
+            ho mohlo zachránit  
 Vědění které potopí  
-                                        i vzrostlou krysu!  
+            i vzrostlou krysu!  
 Potopí ji do ohně věčného,  
 ohně pýchy kterým shoří svět,  
-                                             to odpalovací krematorium  
-                                             usazené na Já:  
-                                             Já zalívaném jako kytička, jako  
-                                                                  hvězdnice alpská…  
+            to odpalovací krematorium  
+            usazené na Já:  
+            Já zalívaném jako kytička, jako  
+            hvězdnice alpská…  
 — Ale Já je svoboda! křičte před hospodou,  
-                                          ještě než shoří,  
+            ještě než shoří,  
 svoboda splácaná do formy, Já je  
 bábovka!  
 jímka a počátek všech zločinů,  
 Já je Kain naslouchající Hospodinu:  
-                                ‚Což nepřijmu i tebe,  
-                                budeš-li konat dobro?‘  
+            ‚Což nepřijmu i tebe,  
+            budeš-li konat dobro?‘  
 a pak se zvedne a jde zabít  
-                                                    Ábela  
+            Ábela  
 protože musí  
 protože Ábel nechápe proč není  
-                                                                Kain,  
+            Kain,  
 Já  
 jak střečkem pobodávané smrtí —
 

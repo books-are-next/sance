@@ -10,13 +10,13 @@ Každý den od rána
           naše skutky,  
 každý den předivo zákona  
           se trhá, látáš ho, konce  
-                                                      nepasují,  
+            nepasují,  
 každý den se posouvá konec,  
           ruce natahuješ vzhůru,  
           snažíš se zachytit,  
-                                            dotknout  
+            dotknout  
           lemu nebe, modré barvy  
-                                        odpouštění,  
+            odpouštění,  
           chytit krásu.  
 Každý den utkáš kus  
           na předivu zákona  
@@ -24,8 +24,8 @@ a nevíš, kde zítra navážeš,
           jsi voják — voják  
           v modré uniformě odpouštění  
           přibitý k přísaze  
-                                 kterou neobsáhneš,  
+            kterou neobsáhneš,  
 jsi voják v modré uniformě  
-                                                     odpouštění.
+            odpouštění.
 
 </section>

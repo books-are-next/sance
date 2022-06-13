@@ -7,15 +7,15 @@ contentType: poetry
 
 Balan evin  
 byla bylina  
-                      mládí a nesmrtelnosti.  
+            mládí a nesmrtelnosti.  
 On se jmenoval Ivolund,  
 ona Avlun.  
 Evi kašty donelód, řekla,  
 a to znamenalo:  
-                        To je jed.  
+            To je jed.  
 Even kešty donelód, řekl,  
 a to znamenalo:  
-                        To není jed.  
+            To není jed.  
 A podal jí pohár  
 a ona ho vypila.  
 Ale měla pravdu, byl to jed  
@@ -24,6 +24,6 @@ a ani bylina Balan evin
 jí nepomohla —  
 ani ona nezmůže nic  
 proti zlu, jež se koná  
-                                         z lásky.
+            z lásky.
 
 </section>

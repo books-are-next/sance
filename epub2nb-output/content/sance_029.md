@@ -7,12 +7,12 @@ contentType: poetry
 
 Hvězda Vánoc je rozsvícena  
 a mágové znovu kráčejí  
-                                              známou cestou.  
+            známou cestou.  
 V každém chlévě  
 je dítě v jesličkách,  
 jdou světem  
-                         plným božích synů a dcer,  
-                         mě a tebe.
+            plným božích synů a dcer,  
+            mě a tebe.
 
 </section>
 
@@ -24,10 +24,10 @@ neslyšně se sype sníh ze stromů
 mezi zmrzlými výkřiky ptáků,  
 klády na potoce zapadané sněhem  
 ztuhly jak mrtvé ryby,  
-             jak těla lesních zvířat,  
-             zbloudilé lodice s plavci  
-             kteří nikdy nespatří domov:  
-             vesla jim vypadla z dřevěných rukou.
+            jak těla lesních zvířat,  
+            zbloudilé lodice s plavci  
+            kteří nikdy nespatří domov:  
+            vesla jim vypadla z dřevěných rukou.
 
 </section>
 
@@ -36,14 +36,14 @@ ztuhly jak mrtvé ryby,
 „Dítě je hvězda Vánoc,“  
 říká cukroví, říkají ozdoby  
 a mágové se natřásají sněhovou zemí  
-                           zpět do země myrhy,  
+            zpět do země myrhy,  
 zlatí a vzdálení ve svých darech.  
 A přece jimi přinesli  
 svaté znamení boha,  
-                                        že jeden každý z nás  
-                                                      je vyvolen,  
-                                        jenomže on nechce…  
-                                        chce, ale nechce…
+            že jeden každý z nás  
+            je vyvolen,  
+            jenomže on nechce…  
+            chce, ale nechce…
 
 </section>
 
@@ -52,13 +52,13 @@ svaté znamení boha,
 Velbloudi na sněhu  
 Sloni pod smrkovými šiškami  
 a dítě, které se zvedne a půjde samo  
-                            cestou mezi chlévy,  
+            cestou mezi chlévy,  
 zatímco velbloudi si budou čistit kopyta  
 a sloni budou tlouct svými slechy  
 a dům tu bude stát rozsvícen,  
          nakloněn nad začarovanou zemí  
          a pomalu vpřed se sunoucí  
          v kolejích svých darů a písní a mrznoucích zimních  
-                                                        polibků.
+            polibků.
 
 </section>
