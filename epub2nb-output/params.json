@@ -96,7 +96,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "sance_006.md",
@@ -825,6 +825,6 @@
       "user": "books-are-next",
       "repo": "sance"
     },
-    "generatedAt": 1657182423589
+    "generatedAt": 1657184430733
   }
 }
