@@ -49,7 +49,7 @@ tocBase:
   - id: section-1
     children:
       - link: sance_005.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: sance_006.html
         title: Řecko
