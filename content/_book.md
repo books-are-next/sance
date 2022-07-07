@@ -44,7 +44,7 @@ readingOrder:
   - sance_035.html
   - sance_036.html
   - sance_037.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
