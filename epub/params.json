@@ -96,7 +96,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\* \* \*"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "sance_006.md",
@@ -565,7 +565,7 @@
         "xhtml": "sance_004.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "sance_005.md",
         "xhtml": "sance_005.xhtml"
@@ -589,13 +589,13 @@
         "xhtml": "sance_008.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "sance_009.md",
         "xhtml": "sance_009.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "sance_010.md",
         "xhtml": "sance_010.xhtml"
@@ -607,7 +607,7 @@
         "xhtml": "sance_011.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "sance_012.md",
         "xhtml": "sance_012.xhtml"
@@ -631,7 +631,7 @@
         "xhtml": "sance_015.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "sance_016.md",
         "xhtml": "sance_016.xhtml"
