@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-sance-14d942a",
-  "revision": "14d942a",
+  "identifier": "fischerova-sance-a1468f7",
+  "revision": "a1468f7",
   "readingOrder": [
     "promo.html",
     "sance_005.html",
@@ -41,11 +41,11 @@
     "sance_035.html",
     "sance_036.html",
     "sance_037.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979951289
+    "date": "Thu Jul 07 2022 08:38:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183095604
   },
   "documents": [
     {
@@ -134,7 +134,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Báseň na narození syna",
+          "name": "Báseň na narození syna",
           "id": null,
           "children": []
         }
@@ -294,7 +294,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sklenění mrtví ve staré Polsce",
+          "name": "Sklenění mrtví ve staré Polsce",
           "id": null,
           "children": []
         }
@@ -314,7 +314,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Já si tě najdu",
+          "name": "Já si tě najdu",
           "id": null,
           "children": []
         }
@@ -554,7 +554,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo jí ovoce jazyka?",
+          "name": "Kdo jí ovoce jazyka?",
           "id": null,
           "children": []
         }
@@ -629,12 +629,12 @@
       "role": "chapter",
       "order": 29,
       "prev": "sance_036.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "A všechno to vede na nebe Řecka",
+          "name": "A všechno to vede na nebe Řecka",
           "id": null,
           "children": []
         }
@@ -642,11 +642,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 838,
+      "chars": 837,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "sance_037.html",
       "next": null,
@@ -663,9 +663,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4791,
-      "chars": 26637,
-      "ideas": 1058
+      "words": 4906,
+      "chars": 27367,
+      "ideas": 1074
     },
     "chapters": {
       "words": 4657,

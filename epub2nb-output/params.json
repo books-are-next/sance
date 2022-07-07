@@ -65,7 +65,7 @@
             "filename": "sance_003.md",
             "xhtml": "sance_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "sance_004.md",
             "xhtml": "sance_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -518,7 +518,7 @@
             "filename": "sance_038.md",
             "xhtml": "sance_038.xhtml",
             "id": 37,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -825,6 +825,6 @@
       "user": "books-are-next",
       "repo": "sance"
     },
-    "generatedAt": 1655979585883
+    "generatedAt": 1657182423589
   }
 }
