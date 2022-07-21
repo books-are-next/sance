@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-sance-905f58d",
-  "revision": "905f58d",
+  "identifier": "fischerova-sance-0e9df90",
+  "revision": "0e9df90",
   "readingOrder": [
     "promo.html",
     "sance_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:28:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186083010
+    "date": "Thu Jul 21 2022 14:47:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414860247
   },
   "documents": [
     {
@@ -644,7 +644,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 129,
-      "chars": 837,
+      "chars": 838,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -664,7 +664,7 @@
   "totals": {
     "all": {
       "words": 4906,
-      "chars": 27367,
+      "chars": 27368,
       "ideas": 1074
     },
     "chapters": {
