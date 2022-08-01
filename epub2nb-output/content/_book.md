@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-1799-5
 readingOrder:
   - promo.html
   - sance_005.html
