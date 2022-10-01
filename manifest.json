@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-sance-66a3366",
-  "revision": "66a3366",
+  "identifier": "fischerova-sance-3d8cc53",
+  "revision": "3d8cc53",
   "readingOrder": [
     "promo.html",
     "sance_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:34:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487240499
+    "date": "Sat Oct 01 2022 16:04:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640250472
   },
   "documents": [
     {
